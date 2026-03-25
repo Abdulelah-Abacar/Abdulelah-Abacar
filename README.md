@@ -90,7 +90,7 @@ MongoDB • PostgreSQL
 
 ## 📫 Contact  
 
-- LinkedIn: [Abdulelah Abacar](https://linkedin.com/in/abdulelah-abacar-6ab2272a4)
+- LinkedIn: [Abdulelah Abacar](https://linkedin.com/in/abdulelah-abacar)
 - Twitter: [@abdulelahabacar](https://twitter.com/abdulelahabacar)  
 - Email: abdulelahabacar@gmail.com  
 
